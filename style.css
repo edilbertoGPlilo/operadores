@@ -1,0 +1,16 @@
+tr{
+    background-color:aqua;
+    font-size: 20px;
+ justify-content: center;
+  
+}
+.b{
+    text-decoration: none;
+}
+td:hover .b{
+ color: blue;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
